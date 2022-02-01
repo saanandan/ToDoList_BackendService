@@ -1,0 +1,25 @@
+{
+  "name": "todolist_backendservice",
+  "version": "1.0.0",
+  "description": "RESTfull todoListAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saanandan/ToDoList_BackendService.git"
+  },
+  "author": "Srinivasan Anandan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saanandan/ToDoList_BackendService/issues"
+  },
+  "homepage": "https://github.com/saanandan/ToDoList_BackendService#readme",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
